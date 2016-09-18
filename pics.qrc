@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>slide.png</file>
+        <file>bar.png</file>
+        <file>anchor.png</file>
+        <file>screenShot.png</file>
+        <file>matlab.png</file>
+        <file>playAnimation.png</file>
+        <file>setSystemParam.png</file>
+    </qresource>
+</RCC>
